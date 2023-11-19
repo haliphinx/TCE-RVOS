@@ -1,6 +1,6 @@
 """
-Training script of ReferFormer
-Modified from DETR (https://github.com/facebookresearch/detr)
+Training script of TCE RVOS
+Modified from ReferFormer (https://github.com/wjn922/ReferFormer)
 """
 import argparse
 import datetime

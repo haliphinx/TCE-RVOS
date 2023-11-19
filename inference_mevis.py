@@ -1,6 +1,6 @@
 '''
-Inference code for ReferFormer, on MeViS
-Modified from DETR (https://github.com/facebookresearch/detr)
+Inference code for TCE RVOS, on MeViS
+Modified from ReferFormer (https://github.com/wjn922/ReferFormer)
 '''
 import argparse
 import json

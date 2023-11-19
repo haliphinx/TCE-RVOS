@@ -1,6 +1,6 @@
 """
-ReferFormer model class.
-Modified from DETR (https://github.com/facebookresearch/detr)
+TCE RVOS model class.
+Modified from ReferFormer (https://github.com/wjn922/ReferFormer)
 """
 import torch
 import torch.nn.functional as F
