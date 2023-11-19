@@ -1,5 +1,5 @@
 # TCE-RVOS
-The official implementation for the "Temporal Context Enhanced Referring Video Object Segmentation" accepted by WACV 2024
+The official implementation for the "Temporal Context Enhanced Referring Video Object Segmentation" accepted by [WACV 2024](https://wacv2024.thecvf.com/)
 
 ![Structure](./docs/tie_rvos_structure_low_updated.png)
 
@@ -40,5 +40,5 @@ Please refer to the [ReferFormer](https://github.com/wjn922/ReferFormer/tree/mai
 
 ## Acknowledgement
 ---
-This repo is based on [ReferFormer](https://github.com/wjn922/ReferFormer/tree/main). Thanks for their great works.
+This repo is based on [ReferFormer](https://github.com/wjn922/ReferFormer/tree/main). We also refer to [MTTR](https://github.com/mttr2021/MTTR). Thanks for their great works.
 
