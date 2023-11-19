@@ -110,10 +110,10 @@ def get_args_parser():
     # 'all': using the three ref datasets for pretraining
     parser.add_argument('--dataset_file', default='ytvos', help='Dataset name') 
     parser.add_argument('--coco_path', type=str, default='data/coco')
-    parser.add_argument('--ytvos_path', type=str, default='data//Refer_YouTube_VOS/rvos')
+    parser.add_argument('--ytvos_path', type=str, default='data/Refer_YouTube_VOS/rvos')
     parser.add_argument('--mevis_path', type=str, default='data/MeViS')
-    parser.add_argument('--davis_path', type=str, default='/media/xhu/Study/data/davis17')
-    parser.add_argument('--a2d_path', type=str, default='/media/xhu/Study2/data/a2d_sentences')
+    parser.add_argument('--davis_path', type=str, default='/data/davis17')
+    parser.add_argument('--a2d_path', type=str, default='/data/a2d_sentences')
     parser.add_argument('--jhmdb_path', type=str, default='data/jhmdb_sentences')
     parser.add_argument('--max_skip', default=3, type=int, help="max skip frame number")
     parser.add_argument('--max_size', default=640, type=int, help="max size for the frame")
