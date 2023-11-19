@@ -1,0 +1,8 @@
+data/
+output/
+__pycache__
+test_run/
+ytvos_dirs/
+run.sh
+model/text_encoder/
+model/tokenizer/

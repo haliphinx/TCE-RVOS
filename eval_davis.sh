@@ -1,0 +1,1 @@
+./scripts/dist_test_davis.sh ./ytvos_dirs/davis_test_vst /home/xhu/Code/narval_ref/ytvos_dirs/vst_8ft_qtrans_coco/checkpoint.pth
