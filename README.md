@@ -3,7 +3,7 @@ The official implementation for the "Temporal Context Enhanced Referring Video O
 
 ![Structure](./docs/tie_rvos_structure_low_updated.png)
 
-> [Temporal Context Enhanced Referring Video Object Segmentation](https://uottawa-my.sharepoint.com/personal/xhu008_uottawa_ca/_layouts/15/guestaccess.aspx?share=EZGOLNbASdNJn-VG5EfCEmABteLVN7e2homZ9yuR0fq88w&e=S9daUf)<br>
+> Temporal Context Enhanced Referring Video Object Segmentation<br>
 Xiao Hu, Basavaraj Hampiholi, Heiko Neumann, and Jochen Lang
 
 ## Abstract
