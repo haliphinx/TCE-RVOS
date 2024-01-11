@@ -1,5 +1,5 @@
 # TCE-RVOS
-The official implementation for the "Temporal Context Enhanced Referring Video Object Segmentation" accepted by [WACV 2024](https://wacv2024.thecvf.com/)
+The official implementation for the ["Temporal Context Enhanced Referring Video Object Segmentation"](https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.pdf) accepted by [WACV 2024](https://wacv2024.thecvf.com/)
 
 ![Structure](./docs/tie_rvos_structure_low_updated.png)
 
