@@ -19,5 +19,5 @@ echo "Load pretrained weights from: ${PRETRAINED_WEIGHTS}"
 
 python -m torch.distributed.launch --nproc_per_node=${GPUS_PER_NODE} --use_env \
 main.py --with_box_refine --binary \
---epochs 7 --lr_drop 4 6 --pretrained_weights=${PRETRAINED_WEIGHTS} --f_token 8 --qtrans \
+--epochs 6 --lr_drop 3 5 --pretrained_weights=${PRETRAINED_WEIGHTS} --f_token 8 --qtrans \
 --output_dir=${OUTPUT_DIR} --backbone resnet50 ${PY_ARGS}
