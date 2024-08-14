@@ -253,7 +253,7 @@ def main(args):
 
 
         train_stats = train_one_epoch(
-            model, criterion, data_loader_train, optimizer, device, epoch, lr_scheduler,
+            model, criterion, data_loader_train, optimizer, device, epoch, lr_scheduler if args.cyclic_lr else None,
             args.clip_max_norm)
         
         if not args.cyclic_lr:
